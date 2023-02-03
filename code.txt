@@ -3,7 +3,8 @@
 <body data-rsssl=1>
 
 <h1>Teknew-Training</h1>
-<h2> Welcome to Gif Workflow</h2>
+<h2> Welcome to Git Workflow</h2>
+<h3> What is Git Workflow</h3>
 <?php
 echo "Hello TeknewlogyGroup DevOps Teams";
 ?>
